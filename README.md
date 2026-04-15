@@ -1,6 +1,6 @@
 # Implicit Neural Registration for Cardiac Motion Estimation with a Temporal Prior
 
-SIREN-based implicit neural registration for 4D cardiac cine MRI sequences. The network takes (x, y, z, t) coordinates as input and predicts the displacement field that maps each timepoint to a fixed reference frame. Optionally initialised from a pre-trained temporal prior.
+Code for the MIDL 2026 paper - Tagged-Informed Prior for Motion Quantification in Cine CMR Using Implicit Neural Representations
 
 ---
 
