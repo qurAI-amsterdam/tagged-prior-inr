@@ -6,11 +6,7 @@ SIREN-based implicit neural registration for 4D cardiac cine MRI sequences. The 
 
 ## Method overview
 
-- **Network**: SIREN (sinusoidal representation network) with input dimension 4 (x, y, z, t) and output dimension 3 (displacement).
-- **Similarity loss**: normalised cross-correlation (NCC) between warped source and fixed target intensities, sampled at random coordinate batches.
-- **Regularization** (optional): Jacobian-based fold prevention and bending energy smoothness — both off by default.
-- **Prior initialisation**: network weights can be loaded from a pre-trained temporal prior before fine-tuning on a new patient.
-- **Canonical space**: all images are aligned to a canonical orientation (apex-base axis, RV–LV rotation) before registration.
+
 
 ---
 
