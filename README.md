@@ -6,7 +6,7 @@ SIREN-based implicit neural registration for 4D cardiac cine MRI sequences. The 
 
 ## Method overview
 
-![Pipeline](imgs/main-midl.png)
+![Pipeline](main-midl.pdf)
 
 ---
 
