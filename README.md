@@ -7,7 +7,7 @@ Code for the MIDL 2026 paper - Tagged-Informed Prior for Motion Quantification i
 ## Method overview
 
 <p align="center">
-  <img src="imgs/main-midl.png" width="800"/>
+  <img src="imgs/main-midl-hd.png" width="800"/>
 </p>
 
 ---
